@@ -11,3 +11,234 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+.ant-menu {
+  width: 20vw;
+}
+
+.navbar {
+  width: 80vw !important;
+}
+
+.active-status {
+  color: green !important;
+  font-weight: bolder !important;
+}
+
+.inactive-status {
+  color: red !important;
+  font-weight: bolder !important;
+}
+
+.login-container {
+  width: 390px;
+  height: 500px;
+  border-radius: 15px;
+  border: solid 1px rgb(241, 240, 240);
+  box-shadow: 1px 1px 1px 1px rgb(12, 12, 12) !important;
+  margin-top: 10px;
+  margin-left: -800px;
+  background-color: white;
+}
+
+.login-text {
+  text-align: center;
+  font-size: 18px;
+  margin-bottom: 10px;
+}
+
+.login-logo {
+  width: 200px;
+  height: 100px;
+  margin-left: 80px;
+}
+
+.login-btn {
+  width: 360px;
+  background-color: rgb(92, 33, 139) !important;
+  border: none !important;
+  margin-top: 30px;
+}
+
+.login-for-pass {
+  margin-left: 210px;
+  color: rgb(177, 138, 209) !important;
+  text-decoration: none !important;
+}
+
+.f-pass-div {
+  width: 420px;
+  margin-left: 450px;
+  margin-top: 70px;
+}
+
+.f-pass-text {
+  font-size: 20px;
+  font-weight: bolder;
+  color: rgb(92, 33, 139);
+}
+
+.f-pass-text2 {
+  font-size: 12px;
+  font-weight: bolder;
+}
+
+.f-pass-btn {
+  background-color: rgb(92, 33, 139) !important;
+  width: 395px;
+  margin-top: 30px;
+  border: none !important;
+}
+
+.f-pass-back {
+  margin-left: 130px;
+  margin-top: 15px;
+  color: rgb(59, 121, 175) !important;
+}
+
+.toppanel {
+  background-color: rgb(102, 38, 113);
+}
+
+.panel-logo {
+  width: 100px;
+  margin-left: 20px;
+  margin-top: 10px;
+}
+
+.panel-btn {
+  margin-right: 10px;
+  background-color: aliceblue !important;
+  color: red !important;
+  font-weight: 400 !important;
+  border: none !important;
+}
+
+.panel-modal {
+  margin-right: 125px;
+}
+
+.panel-btn1 {
+  background-color: white !important;
+  color: black !important;
+  border-radius: 80px !important;
+  width: 100px !important;
+  border: 1px solid black !important;
+}
+
+.panel-btn2 {
+  background-color: rgb(102, 38, 113) !important;
+  border-radius: 80px !important;
+  width: 100px !important;
+  border: 1px solid black !important;
+}
+
+.modal-footer {
+  border: none !important;
+}
+
+.panel-title {
+  margin-left: 150px;
+  font-weight: bolder !important;
+}
+
+.panel-body1 {
+  margin-left: 120px;
+}
+
+.modal-header {
+  border: none !important;
+}
+
+.home-body {
+  margin-left: 250px;
+  margin-top: 100px;
+}
+
+.cate-logo {
+  margin: 20px;
+  height: 20px;
+}
+
+.cate-title {
+  margin-left: 50px;
+  margin-top: -45px;
+  font-weight: bolder;
+  font-size: 20px;
+}
+
+.search-bar {
+  margin-left: 300px;
+  margin-top: -45px;
+}
+
+.cate-input {
+  width: 400px;
+  border-radius: 50px;
+}
+
+.cate-btn {
+  margin-left: 930px;
+  margin-top: -50px;
+  background-color: rgb(102, 38, 113) !important;
+  border: none !important;
+
+}
+
+.cate-img {
+  cursor: pointer;
+}
+
+.pro-img {
+  height: 25px;
+  margin: 20px;
+}
+
+.pro-title {
+  font-weight: bolder;
+  font-size: 20px;
+  margin-left: 55px;
+  margin-top: -50px;
+}
+
+.pro-div {
+  margin-left: 300px;
+  margin-top: -45px;
+}
+
+.pro-img2 {
+  width: 400px;
+  border-radius: 50px;
+}
+
+.pro-btn {
+  margin-left: 930px;
+  margin-top: -50px;
+  background-color: rgb(102, 38, 113) !important;
+  border: none !important;
+}
+
+.pro-data-img {
+  width: 30px;
+}
+
+.edit-btn2{
+  background-color: rgb(102, 38, 113) !important;
+  border-radius: 80px !important;
+  width: 100px !important;
+  border: none !important;
+}
+.edit-btn{
+  background-color: rgb(247, 247, 247) !important;
+  border-radius: 80px !important;
+  width: 100px !important;
+  border: 1px solid black !important;
+  color: black !important;
+}
+
+.edit-upload-btn{
+ 
+  background-color: rgb(102, 38, 113) !important;
+  border: none !important;
+  margin-top: 15px;
+}
